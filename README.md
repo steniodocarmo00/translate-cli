@@ -11,7 +11,7 @@
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/translate-cli.git
+git clone https://github.com/steniodocarmo00/translate-cli.git
 cd translate-cli
 ```
 
